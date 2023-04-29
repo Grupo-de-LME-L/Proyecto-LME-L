@@ -1,0 +1,197 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+body{background-color: white; color: #fff;max-width: 1500px; height: 100vh; 
+}
+
+header{position: relative; width: 100%;min-width: 900px;padding: 20px 0;display: flex;justify-content: space-between;align-items: center; background-color: #24252A;}
+.logo{margin-left:50px ; font-size: 40px;}
+
+.cont-ul{left:  0;
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+    position: absolute; 
+    justify-content: space-between 7px;
+background-color: cadetblue;
+color: #24252A;
+width: 100%;
+
+}
+    li{list-style: none;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 200px;
+    
+    }
+
+    .sesion{left:  0;
+        display: flex;
+        align-items: center;
+        margin-left: 900px;
+        position: absolute;
+    }
+    .compras{background: #a9aaac ; color: #333;}
+section{display: flex;width: 1000px;height: 430px;padding: 60px;}
+section img{width: 0px;flex-grow: 1;object-fit: cover;opacity: 8;transition: 5s ease;}
+section img:hover{cursor: crosshair;width: 300px;opacity: 1;filter: contrast(120%);}
+footer{background: #24252A;}
+.redes{display: flex;}
+    .redes ul li{display: inline-block;}
+    .redes ul li a{
+    display: block;
+    padding: 0 ;
+    background: #333;
+    color: #fff;
+    line-height: 50px;
+    }
+    .comida{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+        float: left;
+      margin-left:  50px;
+      padding: 0px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    .comida2{
+        background-color:cadetblue;
+        color: #fff;
+        width: 300px;
+        height: 330px;
+        float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+       
+    }
+    .comida3{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+       float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+        
+    }
+    .comida4{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+        float: left;
+      margin-left:  50px;
+      padding: 0px;
+      border-radius: 10px;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .comida5{
+        background-color:cadetblue;
+        color: #fff;
+        width: 300px;
+        height: 330px;
+        float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .comida6{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+       float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .Hamburguesas{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+        float: left;
+      margin-left:  50px;
+      padding: 0px;
+      border-radius: 10px;
+      text-align: center;
+      margin-top: 30px;
+    }
+    .Hamburguesas2{
+        background-color:cadetblue;
+        color: #fff;
+        width: 300px;
+        height: 330px;
+        float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .Hamburguesas3{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+       float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .Hamburguesas4{
+        background-color:cadetblue;
+        color: #fff;
+       width: 300px;
+       height: 330px;
+        float: left;
+      margin-left:  50px;
+      padding: 0px;
+      border-radius: 10px;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .Hamburguesas5{
+        background-color:cadetblue;
+        color: #fff;
+        width: 300px;
+        height: 330px;
+        float: left;
+        margin-left:  50px;
+        padding: 0px;
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    h1{color: #24252A; margin-top: 60px;margin-left: 50px;}
+    .instalaciones{float: left;margin-left: 50px; padding: 50px;}
+    article{text-align: left;margin-left: 200px;margin-top: 10px;margin-right: 200px;color: black;}
+ 
+    a:link{
+        color: azure;
+        
+    }
+    a:visited{
+        color: azure;
+    }
+    a:hover{
+        color: azure;
+    }
+    a:active{
+        color: azure;
+    }
+    
+  
+   
+
