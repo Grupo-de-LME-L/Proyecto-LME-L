@@ -8,13 +8,13 @@ _Creacion de una pagia web para  materia de Lenguaje de Marcado Y Estilo Web de 
 
 ## Herramientas 🛠️
 
-*Visual Studio  https://code.visualstudio.com/download
+Estudio visual https://code.visualstudio.com/download
 
 ## Autores ✒️
 
 * **Flores Avila, Katherine Yamileth FA231908**
 * **González Alvarado, Gerson Esaú GA232053**
-* **
+* Guardado Alvarado, Erika Fernanda GA220455**
 * **Mejía Cea, Carlos Amílcar MC232092**
 
 ## Licencia 📄
