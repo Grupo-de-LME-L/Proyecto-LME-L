@@ -14,7 +14,7 @@ Estudio visual https://code.visualstudio.com/download
 
 * **Flores Avila, Katherine Yamileth FA231908**
 * **González Alvarado, Gerson Esaú GA232053**
-* Guardado Alvarado, Erika Fernanda GA220455**
+* **Guardado Alvarado, Erika Fernanda GA220455**
 * **Mejía Cea, Carlos Amílcar MC232092**
 
 ## Licencia 📄
