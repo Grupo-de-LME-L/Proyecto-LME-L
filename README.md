@@ -2,7 +2,7 @@
 
 _Creacion de una pagia web para  materia de Lenguaje de Marcado Y Estilo Web de la Universidad Don Bosco, El  Salvador
 
-### Pre-requisitos de instalación 📋
+### Pre-requisitos
 
  Tener Intalado Visual Studio en tu computador
 
